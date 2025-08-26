@@ -1,5 +1,3 @@
-# 💫 About Me:
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bch.nguyn01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hellocapyhn) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@12thg01.2011) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adminhb@kittycapy.vn) 
 
